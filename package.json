@@ -4,6 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "NODE_OPTIONS=--openssl-legacy-provider && ng serve --watch --open",
+    "watch": "ng serve --watch --open",
     "build": "ng build",
     "lint": "ng lint"
   },
